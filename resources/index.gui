@@ -1,0 +1,10 @@
+<svg class="background">
+  <text id="sync-Time" x="15%" y="20%">{ ... }</text>
+  <text id="Day" x="15%" y="30%"></text>
+  <text id="MonthLable" x="80%" y="20%"></text>
+  <text id="Month" x="80%" y="30%"></text>
+  <text id="DOMlable" x="45%" y="20%"></text>
+  <text id="DOM" x="45%" y="30%"></text>
+  <text id="TimeLable" x="45%" y="50%"></text>
+  <text id="Time" x="45%" y="70%"></text>
+</svg>

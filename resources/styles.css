@@ -1,0 +1,75 @@
+.background {
+  viewport-fill: fb-white;
+}
+
+#sync-Time {
+  fill: black;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 1000;
+}
+
+#Day {
+  fill: black;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 1000;
+}
+
+#MonthLable {
+  fill: black;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 1000;
+}
+
+#Month {
+  fill: black;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 1000;
+}
+
+#DOMlable {
+  fill: black;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 1000;
+}
+
+#DOM {
+  fill: black;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 1000;
+}
+
+#TimeLable {
+  fill: black;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 1000;
+}
+
+#Time {
+  fill: black;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 1000;
+}

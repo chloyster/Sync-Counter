@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "c3f647d1-3084-4742-92c7-3b7aa62634be",
+    "appType": "app",
+    "appDisplayName": "Sync Time",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#8bc34a",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Sync Time"
+      }
+    }
+  }
+}
